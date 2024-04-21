@@ -10,6 +10,7 @@ SunnyLand is a 2D platformer made with the Unity game engine. It is coded with t
 
 ![image](https://github.com/ajax815/SunnyLand-1.0/assets/161390808/7ac7cb2e-9a8c-4398-ba86-d7d2d5326f82)
 
+![image](https://github.com/ajax815/SunnyLand-1.0/assets/161390808/2e179da9-4627-4d8f-8ac7-7a1afcd247be)
 
 
 
