@@ -18,5 +18,6 @@ I exported the games sound effects from Pixabay.
 
 # Download Instructions
 1. Select "Code" on the upper right and then select "Download ZIP"
-2. Once Downloaded, right click on the zipped folder and click "Extract All"
-3. 
+2. Once downloaded, right click on the zipped folder and click "Extract All"
+3. Open the extracted folder and click on "SunnyLand.exe"
+4. Play the game
