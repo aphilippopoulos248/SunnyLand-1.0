@@ -14,4 +14,4 @@ The artwork and music is not owned by me. The respectable owner of the games art
 
 
 # Sound Effects
-I exported the games sound effects from Pixabay
+I exported the games sound effects from Pixabay.
