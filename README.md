@@ -2,12 +2,16 @@
 
 Developed by Alexander Philippopoulos
 
-# Programming
+# Description
 SunnyLand is a 2D platformer made with the Unity game engine. It is coded with the C# programming language. The goal is to go through different levels while avoiding enemies and collecting gems.
 
+# Programming
+All the games programming and design was done by me. I used the C# programming language to create the dynamic aspects of the game. I also designed the games UI and menus.
 
 
+# Artwork and Music
+The artwork and music is not owned by me. The respectable owner of the games art and music is Ansimuz. I got all his art and music from his free asset pack.
 
 
-# Artwork
-The artwork is not owned by me. It was created by Ansimuz, and I got all the games art by him on the unity asset store.
+# Sound Effects
+I exported the games sound effects from Pixabay
