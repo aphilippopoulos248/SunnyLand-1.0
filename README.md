@@ -5,7 +5,6 @@ Developed by Alexander Philippopoulos
 # Description
 SunnyLand is a 2D platformer made with the Unity game engine. It is coded with the C# programming language. The goal is to go through different levels while avoiding enemies and collecting gems.
 ![image](https://github.com/ajax815/SunnyLand-1.0/assets/161390808/4e4cb9e6-9da9-4bf5-89b0-6df5b5bb86a8)
-![image](https://github.com/ajax815/SunnyLand-1.0/assets/161390808/dafc101d-56b1-4fdf-954f-c0afa0a73377)
 ![image](https://github.com/ajax815/SunnyLand-1.0/assets/161390808/c9574c5d-cf79-45c3-8417-1309dd7ab592)
 
 
