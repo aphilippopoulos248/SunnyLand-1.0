@@ -1,4 +1,4 @@
-# SunnyLand
+# SunnyLand 1.0
 
 Developed by Alexander Philippopoulos
 
