@@ -17,5 +17,6 @@ The artwork and music is not owned by me. The respectable owner of the games art
 I exported the games sound effects from Pixabay.
 
 # Download Instructions
-1. Select "Code" on the upper right and then select "Download.zip"
-2. 
+1. Select "Code" on the upper right and then select "Download ZIP"
+2. Once Downloaded, right click on the zipped folder and click "Extract All"
+3. 
