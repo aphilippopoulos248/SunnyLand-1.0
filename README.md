@@ -2,6 +2,8 @@
 
 Developed by Alexander Philippopoulos
 
+Artwork and music by Ansimuz
+
 # Description
 SunnyLand is a 2D platformer made with the Unity game engine. The goal of the game is to go through different levels while avoiding enemies and collecting gems. As of now, there are only two levels, but I do plan on making more in the future. Any feedback is appreciated. Have fun playing.
 
